@@ -2,7 +2,7 @@
 - 👀 I’m interested in development meb
 - 🌱 I’m currently learning language Java
 - 💞️ I’m looking to collaborate on my work
-- 📫 How to reach me almhmwdyqsy470@gmail.com
+- 📫 How to reach me almhmoudiqusai@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
