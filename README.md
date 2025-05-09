@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @QusaiAl-mahmoudi
-- 👀 I’m interested in development meb
 - 🌱 I’m currently learning language Java
-- 💞️ I’m looking to collaborate on my work
+- 📝 I regularly write articles on https://t.me/QusaiAl_mhmoudi
 - 📫 How to reach me almhmoudiqusai@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
