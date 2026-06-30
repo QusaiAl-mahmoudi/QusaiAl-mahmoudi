@@ -1,6 +1,5 @@
 
----
-## 🚀 About Me
+#🚀 About Me
 I am **Qusai Almhmoudi**, an IT Engineer & Developer focused on Network Engineering (CCNA) and enterprise systems.
 
 - 🎓 IT Student - Computer Engineering & Systems.
@@ -32,7 +31,7 @@ I am **Qusai Almhmoudi**, an IT Engineer & Developer focused on Network Engineer
 
 ## 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QusaiAl-mhmoudi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QusaiAl-mahmoudi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
