@@ -1,25 +1,85 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Welcome%20to%20Qusai's%20Tech%20Space&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
-# A IT Engineer, Front End Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Qusai's Profile Views" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&component=visitors&color=blue&style=flat)
+## 🚀 About Me
+I am **Qusai Almhmoudi**, an IT Engineer and Software Developer passionate about building robust systems, designing advanced architectures, and engineering complex networks. I thrive on turning intricate logical challenges into efficient, scalable software and infrastructure solutions.
 
-* 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
-* 📬 How to reach me: **almhmoudiqusai@gmail.com**
+- 🎓 **Focus:** IT Student - Computer Engineering & Systems.
+- 🛠️ **Current Focus:** Advanced Network Engineering (CCNA) & Enterprise Database Systems.
+- 💡 **Interests:** Hierarchical Network Design, Enterprise Application Development, and Database Optimization.
 
 ---
 
-## 🔗 Connect with me:
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/share/1G79jzjDn6/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/Qusai7813" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Personal" />
+  </a>
+  <a href="https://t.me/ITCode_0" target="_blank">
+    <img src="https://img.shields.io/badge/ITCode%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ITCode Channel" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools:
+## 🛠️ Technical Toolkit
+
+### 🖥️ Network Engineering
 <p align="left">
-  <!-- يمكنك إضافة أو حذف الأيقونات وحفظ روابطها من موقع simpleicons.org -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/Routing_Protocols_(OSPF/EIGRP)-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Routing" />
+  <img src="https://img.shields.io/badge/Network_Design_(Packet_Tracer)-0288D1?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Network Design" />
+  <img src="https://img.shields.io/badge/Subnetting_&_ACL-4CAF50?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security & Subnetting" />
+</p>
+
+### 🗄️ Systems & Database Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+  <img src="https://img.shields.io/badge/Oracle_APEX-314051?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
+  <img src="https://img.shields.io/badge/SQL_&_PL/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### 💻 Programming Languages & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QusaiAl-mhmoudi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Qusai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://animated-github-staturday.vercel.app/api?username=QusaiAl-mhmoudi&theme=tokyonight" width="100%" alt="Animated Activity" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=100&section=footer" width="100%" />
+</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
