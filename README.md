@@ -42,8 +42,13 @@ I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks 
 
 ---
 
-### 📈 GitHub Contribution Profile
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://chart.googleapis.com/chart?cht=p3&chs=500x200&chd=t:40,30,20,10&chco=005A9C,F80000,ED8B00,239120&chdl=Networking|Databases|Java|Others&chdlp=b" alt="Skills Chart" />
-</p>
+### 💡 Most Used Languages
+<!-- بطاقة اللغات الأكثر استخداماً -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" />
+
+### 🔥 Contribution Streak
+<!-- بطاقة الـ Streak الموضحة أسفل الصورة -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+
