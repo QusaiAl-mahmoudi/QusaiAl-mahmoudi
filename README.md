@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @QusaiAl-mahmoudi
-- 🌱 I’m currently learning language Java
-- 📝 I regularly write articles on https://t.me/QusaiAl_mhmoudi
-- 📫 How to reach me almhmoudiqusai@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# A Software Engineer, Full Stack Developer
+
+# A IT Engineer, Full Stack Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&component=visitors&color=blue&style=flat)
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
-* 📬 How to reach me: **your-email@gmail.com**
+* 📬 How to reach me: **almhmoudiqusai@gmail.com**
 
 ---
 
