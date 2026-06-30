@@ -1,7 +1,7 @@
 
-# A IT Engineer, Full Stack Developer
+# A IT Engineer, Front End Developer
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&component=visitors&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&component=visitors&color=blue&style=flat)
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
 * 📬 How to reach me: **almhmoudiqusai@gmail.com**
