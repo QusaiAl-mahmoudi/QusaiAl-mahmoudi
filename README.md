@@ -1,43 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Welcome%20to%20Qusai's%20Tech%20Space&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Qusai's Profile Views" />
-</p>
-
 ## 🚀 About Me
-I am **Qusai Almhmoudi**, an IT Engineer and Software Developer passionate about building robust systems, designing advanced architectures, and engineering complex networks. I thrive on turning intricate logical challenges into efficient, scalable software and infrastructure solutions.
+I am **Qusai Almhmoudi**, an IT Engineer & Developer focused on Network Engineering (CCNA) and enterprise systems.
 
-- 🎓 **Focus:** IT Student - Computer Engineering & Systems.
-- 🛠️ **Current Focus:** Advanced Network Engineering (CCNA) & Enterprise Database Systems.
-- 💡 **Interests:** Hierarchical Network Design, Enterprise Application Development, and Database Optimization.
+- 🎓 IT Student - Computer Engineering & Systems.
+- 🛠️ Specializing in Cisco Networking & Oracle Databases.
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.facebook.com/share/1G79jzjDn6/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://t.me/Qusai7813" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Personal" />
-  </a>
-  <a href="https://t.me/ITCode_0" target="_blank">
-    <img src="https://img.shields.io/badge/ITCode%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ITCode Channel" />
-  </a>
+  <a href="https://www.facebook.com/share/1G79jzjDn6/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://t.me/Qusai7813" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/ITCode_0" target="_blank"><img src="https://img.shields.io/badge/ITCode_Channel-0088cc?style=flat&logo=telegram&logoColor=white" alt="ITCode" /></a>
 </p>
 
 ---
 
 ## 🛠️ Technical Toolkit
-
-### 🖥️ Network Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Routing_Protocols_(OSPF/EIGRP)-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Routing" />
-  <img src="https://img.shields.io/badge/Network_Design_(Packet_Tracer)-0288D1?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Network Design" />
-  <img src="https://img.shields.io/badge/Subnetting_&_ACL-4CAF50?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security & Subnetting" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QusaiAl-mhmoudi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</p>
 </p>
 
 ### 🗄️ Systems & Database Development
