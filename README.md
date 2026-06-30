@@ -2,6 +2,10 @@
 
 I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&component=visitors&color=blue&style=flat)
+
+* 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
+* 📬 How to reach me: **almhmoudiqusai@gmail.com**
 ---
 
 ### 🌐 Social & Channel
@@ -23,17 +27,17 @@ I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks 
 
 ---
 
-### 📊 Tech Stack & Tools
-
+## 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- يمكنك إضافة أو حذف الأيقونات وحفظ روابطها من موقع simpleicons.org -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ---
