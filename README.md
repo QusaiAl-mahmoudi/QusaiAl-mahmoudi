@@ -3,7 +3,7 @@
 I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&component=visitors&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mahmoudi&component=visitors&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
@@ -49,11 +49,11 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 #### 💡 Profile Performance
 <p align="left">
   <!-- استخدام سيرفر مرآة بديل وأسرع لا يعتمد على الواجهة السابقة لتجنب الحجب -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=QusaiAl-mhmoudi&show_icons=true&theme=dark&hide_border=true" alt="Qusai Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=QusaiAl-mahmoudi&show_icons=true&theme=dark&hide_border=true" alt="Qusai Stats" />
 </p>
 
 #### 🔤 Most Used Languages
 <p align="left">
   <!-- استخدام الرابط المباشر للمطور الرئيسي والمحدث بالثيم الداكن المستقر -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=QusaiAl-mahmoudi&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
