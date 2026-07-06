@@ -46,13 +46,15 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ### 📊 GitHub Analytics
 
-#### 💡 Most Used Languages
+#### 💡 Profile Performance
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mahmoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <!-- استخدام سيرفر مرآة بديل وأسرع لا يعتمد على الواجهة السابقة لتجنب الحجب -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=QusaiAl-mahmoudi&show_icons=true&theme=dark&hide_border=true" alt="Qusai Stats" />
 </p>
 
-#### 🔥 Contribution Streak
+#### 🔤 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mahmoudi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- استخدام الرابط المباشر للمطور الرئيسي والمحدث بالثيم الداكن المستقر -->
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=QusaiAl-mahmoudi&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>r-azra.veAl-mahm
 </p>
-
