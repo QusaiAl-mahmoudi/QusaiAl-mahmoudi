@@ -42,12 +42,10 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QusaiAl-mhmoudi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+### 📈 GitHub Contribution Profile
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://chart.googleapis.com/chart?cht=p3&chs=500x200&chd=t:40,30,20,10&chco=005A9C,F80000,ED8B00,239120&chdl=Networking|Databases|Java|Others&chdlp=b" alt="Skills Chart" />
 </p>
+
+```
