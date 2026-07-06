@@ -3,7 +3,7 @@
 I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&component=visitors&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mahmoudi&component=visitors&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
@@ -48,11 +48,11 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 #### 💡 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mahmoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 #### 🔥 Contribution Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mahmoudi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
