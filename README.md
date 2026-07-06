@@ -42,10 +42,8 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ---
 
-### 📈 GitHub Contribution Profile
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://chart.googleapis.com/chart?cht=p3&chs=500x200&chd=t:40,30,20,10&chco=005A9C,F80000,ED8B00,239120&chdl=Networking|Databases|Java|Others&chdlp=b" alt="Skills Chart" />
-</p>
-
-```
+### 💡 Most Used Languages
+<!-- بطاقة اللغات الأكثر استخداماً -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" />
