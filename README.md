@@ -50,3 +50,9 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
+
+#### 🔥 Contribution Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
