@@ -50,5 +50,5 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ### 🔥 Contribution Streak
 <!-- بطاقة الـ Streak الموضحة أسفل الصورة -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mahmoudi&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USER_NAME&theme=dark" alt="GitHub Streak" />
 
