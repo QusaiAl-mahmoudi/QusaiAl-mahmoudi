@@ -2,10 +2,13 @@
 
 I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
-![Profile views](https://komarev.com/ghpvc/?username=QusaiAl-mahmoudi&component=visitors&color=blue&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=QusaiAl-mhmoudi&component=visitors&color=blue&style=flat-square" alt="Profile views" />
+</p>
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
 * 📬 How to reach me: **almhmoudiqusai@gmail.com**
+
 ---
 
 ### 🌐 Social & Channel
@@ -27,23 +30,23 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ---
 
-## 🛠 Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="left">
-  <!-- يمكنك إضافة أو حذف الأيقونات وحفظ روابطها من موقع simpleicons.org -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-### 💡 Most Used Languages
-<!-- بطاقة اللغات الأكثر استخداماً -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" />
+#### 💡 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mhmoudi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
