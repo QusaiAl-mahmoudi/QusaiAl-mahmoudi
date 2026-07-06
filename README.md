@@ -2,7 +2,7 @@
 
 I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&component=visitors&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=QusaiAL-mahmoudi&component=visitors&color=blue&style=flat)
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
 * 📬 How to reach me: **almhmoudiqusai@gmail.com**
