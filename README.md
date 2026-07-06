@@ -1,8 +1,8 @@
 # 💻 IT Engineer & Systems Developer
 
-I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
+I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networks and developing enterprise system architectures.
 
-![Profile views](https://komarev.com/ghpvc/?username=QusaiAL-mahmoudi&component=visitors&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=QusaiAl-mahmoudi&component=visitors&color=blue&style=flat)
 
 * 🌱 I’m currently learning **Java, Oracle SQL & Network Engineering**
 * 📬 How to reach me: **almhmoudiqusai@gmail.com**
@@ -46,9 +46,9 @@ I am **Qusai Almhmoudi**, an IT Engineer dedicated to designing secure networks 
 
 ### 💡 Most Used Languages
 <!-- بطاقة اللغات الأكثر استخداماً -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QusaiAl-mahmoudi&layout=compact&theme=dark" alt="Top Langs" />
 
 ### 🔥 Contribution Streak
 <!-- بطاقة الـ Streak الموضحة أسفل الصورة -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mahmoudi&theme=dark" alt="GitHub Streak" />
 
