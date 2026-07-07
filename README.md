@@ -59,7 +59,7 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 #### 🌌 Daily Coding Streak (Neon Theme)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mhmoudi&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QusaiAl-mahmoudi&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
