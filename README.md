@@ -15,14 +15,23 @@ I am **Qusai Adam Abdulla**, an IT Engineer dedicated to designing secure networ
 
 ---
 
-### 🌐 Social & Channel
-<table>
-  <tr>
-    <td><a href="https://www.facebook.com/share/1G79jzjDn6/" target="_blank"><b>🔷 Facebook Account</b></a></td>
-    <td><a href="https://t.me/Qusai7813" target="_blank"><b>✈️ Telegram Contact</b></a></td>
-    <td><a href="https://t.me/ITCode_0" target="_blank"><b>📢 ITCode Channel</b></a></td>
-  </tr>
-</table>
+<h2 align="left">🌐 Social & Channel</h2>
+
+<p align="left">
+  <a href="https://www.facebook.com/share/1G79jzjDn6/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <a href="https://t.me/Qusai7813" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
+
+  <a href="https://t.me/ITCode_0" target="_blank">
+    <img src="https://img.shields.io/badge/ITCode_Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ITCode Channel" />
+  </a>
+</p>
+
+---
 
 ---
 
